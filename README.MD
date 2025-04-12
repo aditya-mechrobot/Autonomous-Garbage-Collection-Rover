@@ -4,6 +4,13 @@ The system is designed to detect and collect waste autonomously using sensor inp
 ## Overview
 The robot is designed to navigate along a predefined path, detect garbage using sensors, and collect it using a servo-based mechanism. This project integrates mechanical design, embedded systems, and automation principles.
 
+## Rover CAD Design
+
+Here’s the SolidWorks design of the autonomous garbage collection rover:
+![Rover ISO View](https://github.com/Aditya-mechrobot/Autonomous-Garbage-Collection-Rover/blob/main/iso.png?raw=true)
+
+*Isometric CAD model showcasing chassis structure and component layout.*
+
 ## Features
 - Ultrasonic sensors for obstacle detection  
 - IR sensors for line following  
