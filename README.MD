@@ -7,7 +7,7 @@ The robot is designed to navigate along a predefined path, detect garbage using 
 ## Rover CAD Design
 
 Here’s the SolidWorks design of the autonomous garbage collection rover:
-![Rover ISO View](https://github.com/Aditya-mechrobot/Autonomous-Garbage-Collection-Rover/blob/main/iso.png?raw=true)
+![Rover ISO View](https://github.com/aditya-mechrobot/Autonomous-Garbage-Collection-Rover/blob/main/iso.PNG?raw=true)
 
 *Isometric CAD model showcasing chassis structure and component layout.*
 
