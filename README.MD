@@ -1,4 +1,4 @@
-# Autonomous Garbage Collection Rover
+# Autonomous waste Collection Rover
 This project presents a prototype of an **autonomous garbage collection unit** developed as part of my final year engineering project.
 The system is designed to detect and collect waste autonomously using sensor inputs and mechanical components, reducing human effort in public waste management
 ## Overview
